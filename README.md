@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi i'm Andrew Worley</h1>
-<h3 align="center">A passionate software developer from florida</h3>
+<h3 align="center">A passionate software engineer from Tampa, Florida</h3>
 
 - 🌱 I’m currently learning at **tripleten**
 
